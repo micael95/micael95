@@ -1,7 +1,7 @@
 ## Bem-vindo 👋
 ### Sobre mim
 * Desenvolvedor Full Stack 🧐
-* Graduado em engenharia da computação 🎓
+* Graduado em Engenharia da Computação 🎓
 
 #### Experiência:
 * Áreas de conhecimento: Gestão micro e média empresas com ERP, área financeira (bancos);
