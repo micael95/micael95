@@ -21,6 +21,6 @@
 * Ferramentas: Github Actions, travis CI, Ansible, Sonar, Docker, Jenkins, Terraform, AWS;
 
 Aplicações de estudo:
-##### Uso de TDD utilizando django-rest, deploy com heroku e DevOps com Github Actions:
 
+## Uso de TDD utilizando django-rest, deploy com heroku e DevOps com Github Actions:
 * [Posts TDD](https://github.com/micael95/posts-tdd-django)
