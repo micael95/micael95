@@ -22,5 +22,5 @@
 
 Aplicações de estudo:
 
-## Uso de TDD utilizando django-rest, deploy com heroku e DevOps com Github Actions:
-* [Posts TDD](https://github.com/micael95/posts-tdd-django)
+#### * [Posts TDD](https://github.com/micael95/posts-tdd-django)
+* Uso de TDD utilizando django-rest, deploy com heroku e DevOps com Github Actions
