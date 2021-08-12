@@ -1,8 +1,8 @@
 ## Bem-vindo ao meu repositório 👋
 ### Sobre mim
-* Graduação completa em: Engenharia da Computação;
+##### Graduado em engenharia da computação e trabalho como desenvolvedor Full Stack.
 
-##### Experiência:
+#### Experiência:
 * Áreas de conhecimento: Gestão micro e média empresas com ERP, área financeira (bancos);
 * Linguagens: Java, PHP, Python, Javascript/Typescript, SQL;
 * Backend: Spring Boot, JAX-RS, Hibernate (JPA), PHP Laravel, Django;
@@ -12,7 +12,7 @@
 * Sistemas : Linux / Windows;
 * Métodolia Ágil: Scrum;
 
-##### Conhecimento/estudos:
+#### Conhecimento/estudos:
 * Frontend: React.js, Flutter, Android nativo;
 * Backend: Node.js + Express;
 * Banco de dados: Mongo DB;
