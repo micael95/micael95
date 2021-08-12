@@ -24,3 +24,6 @@ Aplicações de estudo:
 
 #### [Posts TDD](https://github.com/micael95/posts-tdd-django)
 * Uso de TDD utilizando django-rest, deploy com heroku e DevOps com Github Actions
+#### [SDK Ifood Python](https://github.com/micael95/sdk-ifood-python)
+* Estudo no desenvolvimento de libs opensource python com publicação no pypi
+
