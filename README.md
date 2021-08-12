@@ -16,7 +16,7 @@
 #### Conhecimento/estudos:
 * Frontend: React.js, Flutter, Android nativo;
 * Backend: Node.js + Express;
-* Banco de dados: Mongo DB;
+* Banco de dados: MongoDB, Firebase;
 * Qualidade de código/DevOps: TDD, BDD, Clean Architecture, SOLID,  CI/ CD;
 * Ferramentas: Github Actions, travis CI, Ansible, Sonar, Docker, Jenkins, Terraform, AWS;
 
