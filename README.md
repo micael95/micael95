@@ -1,6 +1,7 @@
 ## Bem-vindo ao meu repositório 👋
 ### Sobre mim
-##### Graduado em engenharia da computação e trabalho como desenvolvedor Full Stack.
+* Desenvolvedor Full Stack 🧐
+* Graduado em engenharia da computação 🎓
 
 #### Experiência:
 * Áreas de conhecimento: Gestão micro e média empresas com ERP, área financeira (bancos);
