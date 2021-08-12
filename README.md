@@ -1,4 +1,4 @@
-## Bem-vindo ao meu repositório 👋
+## Bem-vindo 👋
 ### Sobre mim
 * Desenvolvedor Full Stack 🧐
 * Graduado em engenharia da computação 🎓
