@@ -1,5 +1,5 @@
-### Bem vindo ao meu repositório 👋
-## Sobre mim
+## Bem-vindo ao meu repositório 👋
+### Sobre mim
 * Graduação completa em: Engenharia da Computação;
 
 ##### Experiência:
