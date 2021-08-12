@@ -23,10 +23,10 @@
 Aplicações de estudo:
 
 #### [Posts TDD](https://github.com/micael95/posts-tdd-django)
-* Uso de TDD utilizando django-rest, deploy com heroku e DevOps com Github Actions
+* Uso de TDD utilizando django-rest, deploy com heroku  e DevOps com Github Actions
 #### [SDK Ifood Python](https://github.com/micael95/sdk-ifood-python)
 * Estudo no desenvolvimento de libs opensource python com publicação no pypi
 #### [Bdev typescript API](https://github.com/micael95/bdev_ts_api)
-* Uso de TDD,SOLID,Clean Architecture, Casos de uso, utilizando Node.js, typescript, jest, travis CI, heroku entre outras ferramentas
+* Api para registro de senhas. Uso de TDD,SOLID,Clean Architecture, Casos de uso, utilizando Node.js, typescript, jest, travis CI, coveralls, heroku, mongoDB entre outras ferramentas
 
 
