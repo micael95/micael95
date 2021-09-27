@@ -1,10 +1,10 @@
-## Bem-vindo 👋
-### Sobre mim
+## Welcome 👋
+### About
 * Full Stack Developer 🧐
-* Diploma in Computer Engineering; 🎓
+* Computer Engineering degree; 🎓
 
 #### Experience:
-* Areas of knowledge: Management of micro and medium-sized companies with ERP and financial area (banks);
+* Knowledge areas: Management of micro and medium-sized companies with ERP and financial area (banks);
 * Languages: Java, PHP, Python, Javascript/Typescript, SQL;
 * Backend: Spring Boot, JAX-RS, Hibernate (JPA), PHP Laravel, Django;
 * Frontend: Html, CSS, Javascript, Jquery, Vue.js, Angular.js, Node.js, Java FX/Swing;
