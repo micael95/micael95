@@ -1,32 +1,32 @@
 ## Bem-vindo 👋
 ### Sobre mim
-* Desenvolvedor Full Stack 🧐
-* Graduado em Engenharia da Computação 🎓
+* Full Stack Developer 🧐
+* Diploma in Computer Engineering; 🎓
 
-#### Experiência:
-* Áreas de conhecimento: Gestão micro e média empresas com ERP, área financeira (bancos);
-* Linguagens: Java, PHP, Python, Javascript/Typescript, SQL;
+#### Experience:
+* Areas of knowledge: Management of micro and medium-sized companies with ERP and financial area (banks);
+* Languages: Java, PHP, Python, Javascript/Typescript, SQL;
 * Backend: Spring Boot, JAX-RS, Hibernate (JPA), PHP Laravel, Django;
 * Frontend: Html, CSS, Javascript, Jquery, Vue.js, Angular.js, Node.js, Java FX/Swing;
-* Ferramentas: GIT,Git Flow, Team Foundation Server (TFS), Maven, Nexus, Composer, pip, npm;    
-* Banco de dados: Mysql, SQL Server;
-* Sistemas : Linux / Windows;
-* Métodolia Ágil: Scrum;
+* Tools: GIT,Git Flow, TFS, Jira, Runrun.it, Maven, Nexus, Composer, pip, npm;   
+* Database: Mysql, SQL Server;
+* Systems : Linux / Windows;
+* Agile: Scrum;
 
-#### Conhecimento/estudos:
+#### Knowledge/studies:
 * Frontend: React.js, Flutter, Android nativo;
 * Backend: Node.js + Express;
-* Banco de dados: MongoDB, Firebase;
-* Qualidade de código/DevOps: TDD, BDD, Clean Architecture, SOLID,  CI/ CD;
-* Ferramentas: Github Actions, travis CI, Ansible, Sonar, Docker, Jenkins, Terraform, AWS;
+* Database: MongoDB, Firebase;
+* Code Quality/DevOps: TDD, BDD, Clean Architecture, SOLID,  CI/ CD;
+* Tools: Github Actions, travis CI, Ansible, Sonar, Docker, Jenkins, Terraform, AWS;
 
-Aplicações de estudo:
+Study projects:
 
 #### [Posts TDD](https://github.com/micael95/posts-tdd-django)
-* Uso de TDD utilizando django-rest, deploy com heroku  e DevOps com Github Actions
+* Use of TDD with django-rest, deploy on heroku and DevOps with Github Actions
 #### [SDK Ifood Python](https://github.com/micael95/sdk-ifood-python)
-* Estudo no desenvolvimento de libs opensource python com publicação no pypi
+* Study in development of opensource libs python with pypi
 #### [Bdev typescript API](https://github.com/micael95/bdev_ts_api)
-* Api para registro de senhas. Uso de TDD,SOLID,Clean Architecture, Casos de uso, utilizando Node.js, typescript, jest, travis CI, coveralls, heroku, mongoDB entre outras ferramentas
+* Api for password manager. Use of TDD,SOLID,Clean Architecture, Use cases, Using Node.js, typescript, jest, travis CI, coveralls, heroku, mongoDB among other tools
 
 
