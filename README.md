@@ -3,6 +3,9 @@
 * Full Stack Developer 🧐
 * Computer Engineering degree; 🎓
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="micael-duarte" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/micael-duarte?trk=profile-badge">Micael Duarte</a></div>
+              
+
 #### Experience:
 * Knowledge areas: Management of micro and medium-sized companies with ERP and financial area (banks);
 * Languages: Java, PHP, Python, Javascript/Typescript, SQL;
