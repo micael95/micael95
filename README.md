@@ -26,8 +26,6 @@ Study projects:
 * Use of TDD with django-rest, deploy on heroku and DevOps with Github Actions
 #### [SDK Ifood Python](https://github.com/micael95/sdk-ifood-python)
 * Study in development of opensource libs python with pypi
-#### [Bdev typescript API](https://github.com/micael95/bdev_ts_api)
-* Api for password manager. Use of TDD,SOLID,Clean Architecture, Use cases, Using Node.js, typescript, jest, travis CI, coveralls, heroku, mongoDB among other tools
 #### [Falemais Spring Boot API](https://github.com/micael95/falemais)
 * Api for tax calculate of calls.
 
